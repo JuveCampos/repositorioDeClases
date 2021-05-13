@@ -1,0 +1,20 @@
+---
+title: "mipagina"
+author: "Juvenal Campos"
+date: "5/13/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Mi nombre es Juvenal Campos y soy trabajador del CIDE. 
+Mis redes sociales son: [@JuvenalCamposF](https://twitter.com/JuvenalCamposF)
+
+Mi página es juvenalcampos.com
+
+![](https://pbs.twimg.com/profile_images/1022163888006082563/XMHfx2bs_400x400.jpg)
+
+
